@@ -25,6 +25,7 @@ Roblox PC·모바일용 로우폴리 좀비 생존·투척·포획·기지 성�
 | [UI·UX·아트](docs/08-UI-UX-ART.md) | PC·모바일 UI, 카메라, 로우폴리 스타일 |
 | [개발 일정·검증](docs/09-ROADMAP-AND-QA.md) | 단계별 개발, 테스트 기준, 현재 검증 상태 |
 | [결정 기록](docs/10-DECISIONS-AND-OPEN-QUESTIONS.md) | 확정·제안·변경·미결 사항 |
+| [참고 영상 분석 기록](docs/11-REFERENCE-VIDEO-ANALYSIS.md) | 이전 영상 분석 메모, 적용 기능, 원본 재검토 대기 항목 |
 | [Codex 규칙](AGENTS.md) | 작업 대상 제한, 백업, 코드 수정·검증 원칙 |
 
 ## 작업 대상
